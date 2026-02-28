@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html, body, #root {
+  height: 100%;
+  width: 100%;
+  background-color: #f0f2f5; /* Ant Design 推荐的后台浅灰色背景 */
+}
